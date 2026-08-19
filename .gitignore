@@ -2,10 +2,15 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
+.venv
 .venv/
+.venv-windows/
+.venv-wsl-partial/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.tools/
+.uv-cache/
 
 # Jupyter
 .ipynb_checkpoints/
